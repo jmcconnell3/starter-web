@@ -8,3 +8,9 @@ Sample website with plenty of files for demos
 
 ## How to Contribute
 Adding some text tothe Contribute sectionx
+
+##SectionNew
+added another section at the end
+
+##Adding extra section again
+fajlkflshf hasf dasjlf jfklds fjdsklf 
