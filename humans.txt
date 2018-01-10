@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jane	jane@gmail.com
 
 # THANKS
 
