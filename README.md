@@ -4,7 +4,8 @@ words about the website project
 
 adding intro - examples of parts of the Git repository
 ## Purpose
-
+adding purpose text
 ## Deployment
+things about deployment
 
 ## How to contribute
