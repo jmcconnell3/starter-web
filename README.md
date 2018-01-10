@@ -1,5 +1,6 @@
 # Starter Web Project
 words about the website project
+more changes from myfeature branch
 ## Intro
 
 adding intro - examples of parts of the Git repository
