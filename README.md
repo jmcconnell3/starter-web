@@ -9,3 +9,5 @@ adding purpose text
 things about deployment
 
 ## How to contribute
+### Copyright
+2014 me.
