@@ -12,4 +12,4 @@ things about deployment
 ## How to contribute
 please fork and pull
 ### Copyright
-2014 me.
+2014 me.  All rights reserved.
