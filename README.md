@@ -4,6 +4,7 @@ more changes from myfeature branch
 ## Intro
 
 adding intro - examples of parts of the Git repository
+updating after stash 
 ## Purpose
 adding purpose text
 ## Deployment
